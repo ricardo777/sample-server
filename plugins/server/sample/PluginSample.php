@@ -88,7 +88,7 @@ class PluginSample extends ServerPlugin
                         'getValues' => 'getDropDownValues',
                         'label' => 'Drop Down Label',
                         'description' => 'Drop Down Description',
-                        'vaue' => '',
+                        'value' => '',
                     ]
                 ]
             ]
